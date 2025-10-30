@@ -1,0 +1,4 @@
+[2025-10-30 04:02:12] ACTIVATION LINK
+Email: ahmdyan1305@gmail.com
+Link: http://localhost/UAS_AchmadYani_WebProgram/processes/activate.php?token=1e444feafa562427e1b0f98791d3a492725428cc2068cefb084ebaffad9e9808
+----------------------------------------
